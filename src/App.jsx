@@ -7,7 +7,7 @@ import AboutUs from "./Pages/AboutUs";
 import Register from "./Pages/Register";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
-import DepartmentDetails from './pages/DepartmentDetails';
+import DepartmentDetails from './Pages/DepartmentDetails.jsx';
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import axios from "axios";
